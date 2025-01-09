@@ -26,6 +26,13 @@ git clone https://github.com/gems-at223/CO2-U-Net.git
 pip install .
 ```
 
+1.6 Optional
+If you want to train the model, run
+
+```
+python src/main.py
+```
+
 
 ### Results for Gas Saturation
 
