@@ -11,7 +11,7 @@ setup(
     install_requires=[
         "matplotlib",
         "torch",
-        "numpy",
+        "numpy==1.26.4",
         "livelossplot",
     ],
 )
