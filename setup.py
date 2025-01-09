@@ -13,5 +13,6 @@ setup(
         "torch",
         "numpy==1.26.4",
         "livelossplot",
+        "IPython",
     ],
 )
