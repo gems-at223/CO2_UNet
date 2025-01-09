@@ -33,6 +33,7 @@ If you want to train the model, run
 python src/main.py
 ```
 
+The CCS_Unet.ipynb notebook in notebook/ folder also showcases the entire work flow.
 
 ### Results for Gas Saturation
 
